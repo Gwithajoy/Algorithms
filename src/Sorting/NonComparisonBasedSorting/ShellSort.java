@@ -23,7 +23,6 @@ public class ShellSort {
                 arr[j+g] = tmp;
             }
         }
-
     }
 
     public static void main(String[] args) {
